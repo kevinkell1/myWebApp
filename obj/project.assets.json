@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\myWebApp.csproj",
+      "projectUniqueName": "c:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "C:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\myWebApp.csproj",
+      "projectPath": "c:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\myWebApp.csproj",
       "packagesPath": "C:\\Users\\Kevin.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\obj\\",
+      "outputPath": "c:\\Users\\Kevin.000\\Source\\Repos\\myWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.112\\RuntimeIdentifierGraph.json"
       }
     }
   }
